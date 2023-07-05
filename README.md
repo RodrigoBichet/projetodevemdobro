@@ -1,4 +1,4 @@
-# Projeto Game Ben 10
+<!-- # Projeto Game Ben 10
 
 <img src="./assets/projetogif.gif" alt="Demonstração do projeto sendo executado.">
 
@@ -45,4 +45,4 @@ https://gameben10byrods.netlify.app/
 <strong> Rodrigo Bichet </strong>
 <br>
 
-<a href="https://www.linkedin.com/in/rodrigobichet/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin"></a>
+<a href="https://www.linkedin.com/in/rodrigobichet/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin"></a> -->
