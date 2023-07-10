@@ -1,6 +1,3 @@
-// const itemCiclope = document.getElementById("ciclope");
-// const itemjeanGrey = document.getElementById("jean-grey");
-
 const personagens = document.querySelectorAll(".personagem");
 
 personagens.forEach((personagem) => {
@@ -36,7 +33,7 @@ function alterarNomePersonagemSelecionado(personagem) {
 function alterarImagemPersonagemSelecionado(personagem) {
     const imagemPersonagemGrande = document.querySelector(".personagem-grande");
     const idPersonagem = personagem.attributes.id.value;
-    imagemPersonagemGrande.src = `../../public/ASSETS/img/card-${idPersonagem}.png`;
+    imagemPersonagemGrande.src = `public/ASSETS/img/card-${idPersonagem}.png`;
 }
 
 function removerSelecaoDoPersonagem() {
